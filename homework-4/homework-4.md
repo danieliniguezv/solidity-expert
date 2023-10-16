@@ -1,8 +1,7 @@
 # Homework 4
 
 1. Using [Sol 2 UML](https://github.com/naddison36/sol2uml) determine how many storage slots this contract is using. 
-If the variables are reordered can the number of storage slots be reeduced?
-
+If the variables are reordered can the number of storage slots be reduced?
 ```bash
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.13;
@@ -44,7 +43,6 @@ contract Store {
     }
 }
 ```
-
 2. Install [Foundry](https://book.getfoundry.sh/) and create a new project. Run the tests supplied.
 
 3. Using Foundry create a new project and fork the mainnet. Using the command
