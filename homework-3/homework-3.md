@@ -15,7 +15,7 @@ between Ethereum clients?
 The smart contract could behave erratically and not compile correctly.
 
 3. Using Remix write a simple contract that uses a memory variable, then 
-using the debugger step through the function and inspect memory.
+using the debugger step through the function and inspect memory:
 ```bash
 //SPDX-License-Identifier: UNLICENSED
 
