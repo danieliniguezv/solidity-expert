@@ -46,5 +46,5 @@ contract Store {
 
 2. Install [Foundry](https://book.getfoundry.sh/) and create a new project. Run the tests supplied.
 
-3. Create a new project and fork the mainnet. Using the command line retrieve a 
-property such as the latest block number.
+3. Using Foundry create a new project and fork the mainnet. Using the command 
+line retrieve a property such as the latest block number.
